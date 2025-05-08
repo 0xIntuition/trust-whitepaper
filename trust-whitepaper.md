@@ -293,7 +293,7 @@ In summary:
 
 ### Node Operator Delegation
 
-TRUST bonders also also optionally choose to delegate their bonded TRUST to node operators, to share in their risks and rewards. This functionality is outlined in detail below, in the **Node Operator Bonding and Slashing Requirements** section.
+TRUST bonders also optionally choose to delegate their bonded TRUST to node operators, to share in their risks and rewards. This functionality is outlined in detail below, in the **Node Operator Bonding and Slashing Requirements** section.
 
 
 ### Aligning Incentives for Sustainable Growth
